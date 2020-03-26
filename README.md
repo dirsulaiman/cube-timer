@@ -1,9 +1,6 @@
 # SpeedCube Timer
 Simple Rubik stopwatch timer web based
 
-## Preview
-![preview](images/preview.png)
-
 ## Installation
 #### Clone from [GitHub](https://github.com/dirsulaiman/cube-timer)
 ```console
@@ -18,6 +15,9 @@ Or in an easier way, just download [cube-timer-master.zip](https://github.com/di
 - Press and hold __Space bar__ until the font color change to Green
 - Release the __Space bar__ to start the timer
 - Press __Space bar__ again to stop the timer
+
+### Preview
+![preview](images/preview.png)
 
 ### License
 Source file: [BSD License](https://github.com/dirsulaiman/cube-timer/blob/master/LICENSE)
